@@ -1,0 +1,18 @@
+.heading{
+    color: red;
+}
+.table{
+    border: solid black;
+    background-color: aqua;
+    border-collapse: collapse;
+}
+.row{
+    border: solid black;
+}
+.text{
+    border: solid black;
+}
+.video{
+    width: 560px;
+    height: 315px;
+}
